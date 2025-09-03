@@ -15,3 +15,14 @@ Seven-Dog-Store Backend (Node.js + Express + Prisma + PostgreSQL)
 • โครงสร้าง Clean-Architecture (controllers, services, middlewares, routes, utils)
 • ใช้ nodemon พัฒนา hot-reload
 ──────────────────────────────
+
+
+
+เตรียมเครื่อง + ติดตั้งโปรแกรมพื้นฐาน
+1.1 ติดตั้งโปรแกรม
+• Node.js ≥ 20
+• PostgreSQL ≥ 15
+• Git, VS Code
+1.2 สร้างฐานข้อมูลใหม่
+
+CREATE DATABASE sevendogstore;   
